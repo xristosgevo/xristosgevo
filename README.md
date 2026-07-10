@@ -14,8 +14,8 @@
 
 <p align="center">
   🧑‍💼 Currently working on: 
-  <a href="https://discord.gg/hlrp">Hoodlife</a> & 
-  <a href="https://discord.gg/DSWQWgKa4q">Nebula Crimelife</a>
+  <a href="https://discord.gg/hlrp">Hoodlife Roleplay</a> & 
+  <a href="https://discord.gg/8tFaxQy2x5">Wave Crimelife</a>
 </p>
 
 <div align="center"> 
